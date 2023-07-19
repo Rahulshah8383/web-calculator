@@ -1,6 +1,7 @@
 # web-calculator
 
 A basic web-based calculator built using HTML, CSS, and JavaScript.
+Live Link: [Web Calculator](https://rahulshah8383.github.io/web-calculator/)
 
 ## Description
 
